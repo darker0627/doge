@@ -1,0 +1,14 @@
+{
+  "name": "Doge",
+  "symbol": "DOGE",
+  "description": "Doge...........................",
+  "image": "111",
+  "animation_url": "222",
+  "external_url": "777",
+  "properties": {
+    "website": "333",
+    "twitter": "444",
+    "telegram": "555",
+    "discord": "666"
+  }
+}
