@@ -2,7 +2,7 @@
   "name": "Doge",
   "symbol": "DOGE",
   "description": "Doge...........................",
-  "image": "111",
+  "image": "https://raw.githubusercontent.com/darker0627/doge/main/dogecoin-1.png",
   "animation_url": "222",
   "external_url": "777",
   "properties": {
